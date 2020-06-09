@@ -1,3 +1,3 @@
-# Proyecto de componentes
+# Proyecto de APP con temática COVID-19
 
-Segundo ejercicio del curso de Flutter
+Aplicación creada con el framework Flutter
