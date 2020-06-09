@@ -1,0 +1,36 @@
+{
+    "nombreApp" : "Componentes",
+    "rutas" : [
+        {
+            "ruta" : "alert",
+            "icon" : "add_alert",
+            "texto": "Llamada de emergencia"
+        },
+        {
+            "ruta" : "carousel",
+            "icon" : "healing",
+            "texto": "¿Por qué nos enfermamos?"
+        },
+        {
+            "ruta" : "card",
+            "icon" : "face",
+            "texto": "Personajes"
+        },
+        {
+            "ruta" : "video",
+            "icon" : "local_movies",
+            "texto": "¡Que ellos te expliquen!"
+        },
+        {
+            "ruta" : "actividades",
+            "icon" : "extension",
+            "texto": "¡Actividades en casa!"
+        },
+        {
+            "ruta" : "acerca",
+            "icon" : "account_circle",
+            "texto": "Acerca de"
+        }
+        
+    ]
+}
